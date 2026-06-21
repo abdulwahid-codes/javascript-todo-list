@@ -23,9 +23,9 @@ A responsive Todo List application built using HTML, CSS, and JavaScript.
 ```
 todo-list-app/
 │
-├── index.html
-├── style.css
-├── script.js
+├── TDL.html
+├── TDL.css
+├── TDL.js
 ├── Screenshots/
 └── README.md
 ```
